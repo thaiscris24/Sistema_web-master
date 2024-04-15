@@ -39,7 +39,8 @@ Após isso você precisa abrir o Visual Studio Code e clicar em 'Open preview' e
 ## Redes Sociais
 
 [Linkedin](https://www.linkedin.com/in/thais-cristina-40b312179/)
-[Gmail.com](Thaiscris556@gmail.com).
+
+[Gmail](Thaiscris556@gmail.com).
 
 
 ---
