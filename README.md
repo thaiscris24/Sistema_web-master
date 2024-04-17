@@ -35,12 +35,11 @@ $ git clone <https://github.com/thaiscris24/Sistema_web-master>
 Após isso você precisa abrir o Visual Studio Code e clicar em 'Open preview' e assim vizualizará o Web site.
 
 
+## LinkedIn
+Conecte-se comigo no LinkedIn para networking profissional e oportunidades de colaboração.
+[Thais Cristina - LinkedIn](https://www.linkedin.com/in/thais-cristina-40b312179/)
 
-## Redes Sociais
+## Email
+Para entrar em contato diretamente, você pode enviar um e-mail para:
+[Thaiscris556@gmail.com](mailto:Thaiscris556@gmail.com)
 
-[Linkedin](https://www.linkedin.com/in/thais-cristina-40b312179/)
-
-[Gmail](Thaiscris556@gmail.com).
-
-
----
